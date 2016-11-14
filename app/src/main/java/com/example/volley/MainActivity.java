@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
 
         String str="http://www.yulin520.com/a2a/impressApi/news/mergeList?sign=C7548DE604BCB8A17592EFB9006F9265&pageSize=10&gender=2&ts=1871746850&page=1";
         Okhttp.getData(this,str,han,0);
-
+//lllllllllllllllllll
 
 //        RequestQueue mStrRequest = Volley.newRequestQueue(this);
 //        StringRequest stringRequestHead = new StringRequest("", new Response.Listener<String>() {
